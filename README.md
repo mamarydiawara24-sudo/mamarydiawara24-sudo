@@ -78,5 +78,5 @@
 ### 📬 Me contacter
 
 - 💼 **LinkedIn :** [[Lien vers votre profil LinkedIn]]
-- 📧 **Email :** [Votre adresse e-mail professionnelle]
+- 📧 **Email :** [mamarydiawara24@gmail.com]
 - 🐙 **GitHub :** [@mamarydiawara24-sudo](https://github.com/mamarydiawara24-sudo)
